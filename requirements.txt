@@ -1,0 +1,17 @@
+azure-core
+azure-search-documents
+azure-storage-blob
+azure-cognitiveservices-speech
+matplotlib
+numpy
+openai
+requests
+python-dotenv
+Pillow
+tenacity
+IPython
+langchain
+langchain-openai
+langchain-community
+typing-extensions
+rich
